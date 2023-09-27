@@ -129,7 +129,6 @@
   <ItemGroup>
     <ClCompile Include="Assignment 1 3rd semester.cpp" />
     <ClCompile Include="BubbleSort.cpp" />
-    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BubbleSort.h" />
